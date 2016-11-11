@@ -1,0 +1,15 @@
+.timeColumn {
+	height: 100%;
+	width: 10%;
+	float: left;
+}
+
+.timeRow {
+	width: 100%;
+	height: 10%;
+	border: thin lightGray solid;
+	border-top: none;
+	box-sizing: border-box;
+	font-size: 2vh;
+	padding-top: 2vh;
+}

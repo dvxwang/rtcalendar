@@ -1,0 +1,63 @@
+.eventPanel {
+	height: 98%;
+	width: 17%;
+	margin-left: 3%;
+	float: left;
+	box-sizing: border-box;
+	border: thin lightGray solid;
+}
+
+.panelSection {
+	height: 50%;
+	width: 100%;
+}
+
+.panelBody {
+	height: 90%;
+	width: 100%;
+	background-color: whitesmoke;
+	overflow: auto;
+	box-sizing: border-box;
+	padding-top: 5%;
+}
+
+.inputRow {
+	height: 12%;
+	width: 100%;
+	text-align: left;
+}
+
+.inputSection {
+	height: 100%;
+	width: 63%;
+	float: left;
+	overflow: hidden;
+}
+
+.inputTitle {
+	height: 100%;
+	width: 33%;
+	float: left;
+	padding-left: 3%;
+	font-size: 2vh;
+}
+
+.panelTitle {
+	height: 10%;
+	width: 100%;
+	background-color: steelblue;
+	box-sizing: border-box;
+	padding: 5%;
+	color: white;
+}
+
+.submitButton {
+	height: 10%;
+	width: 60%;
+	margin-left: 20%;
+	color: white;
+	background-color: steelblue;
+	border-radius: 10px;
+	box-sizing: border-box;
+	padding-top: 3%;
+}

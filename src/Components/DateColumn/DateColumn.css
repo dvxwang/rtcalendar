@@ -1,0 +1,12 @@
+.dateColumn {
+	height: 100%;
+	float: left;
+}
+
+.timeSlot {
+	width: 100%;
+	height: 10%;
+	border-left: 1px white solid;
+	background-color: whitesmoke;
+	box-sizing: border-box;
+}

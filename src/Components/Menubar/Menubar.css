@@ -1,0 +1,75 @@
+.menubar {
+	height: 6%;
+	width: 100%;
+	background-color: steelblue;
+	box-sizing: border-box;
+	padding-top: 0.3%;
+	color: white;
+	border-right: 1px steelblue solid;
+}
+
+.arrowBox {
+	width: 9%;
+	height: 100%;
+	float: left;
+	box-sizing: border-box;
+	padding: 0.5%;
+	margin-left: 1%;
+}
+
+.rightArrow {
+	width: 50%;
+	height: 100%;
+	box-sizing: border-box;
+	float: left;
+	background-image: url("../../play-button.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.leftArrow {
+	width: 50%;
+	height: 100%;
+	box-sizing: border-box;
+	float: left;
+	background-image: url("../../restart.png");
+  	background-size: contain;
+  	background-repeat: no-repeat;
+}
+
+.dateRange {
+	width: 50%;
+	height: 100%;
+	float: left;
+	text-align: left;
+	box-sizing: border-box;
+	padding: 1%;
+}
+
+.timeZoneView {
+	width: 15%;
+	height: 60%;
+	float: left;
+	box-sizing: border-box;
+	padding: 5%;
+	background-color: gray;
+	margin-top: 1%;
+	color: white;
+	background-color: steelblue;
+}
+
+.viewRange {
+	width: 25%;
+	height: 100%;
+	float: left;
+	box-sizing: border-box;
+	padding: 1%;
+}
+
+.dateView {
+	width: 33%;
+	height: 100%;
+	float: left;
+	box-sizing: border-box;
+	padding: 0.5%;
+}

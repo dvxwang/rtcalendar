@@ -1,0 +1,28 @@
+.headerWrapper {
+  width: 100%;
+  height: 4%;
+  border: thin lightGray solid;
+  box-sizing: border-box;
+}
+
+.dateHeader {
+  background-color: lightGray;
+  height: 100%;
+  border-left: 1px white solid;
+  box-sizing: border-box;
+  font-size: 1.5vh;
+  font-weight: bold;
+  padding-top: 0.5vh;
+  float: left;
+}
+
+.timeHeader {
+  background-color: lightGray;
+  height: 100%;
+  box-sizing: border-box;
+  font-size: 1.5vh;
+  font-weight: bold;
+  padding-top: 0.5vh;
+  float: left;
+  width: 10%;
+}

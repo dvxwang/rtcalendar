@@ -1,0 +1,12 @@
+.eventContainer {
+	background-color: green;
+	box-sizing: border-box;
+	border: thin black solid;
+	font-size: 2vh;
+	border-radius: 10px;
+	z-index: 1;
+	float: left;
+	color: white;
+	padding: 10%;
+	overflow: auto;
+}

@@ -1,0 +1,23 @@
+.eventBox {
+	height: 25%;
+	width: 100%;
+	overflow: auto;
+	font-size: 1.7vh;
+	padding-left: 5%;
+	border-bottom: thin darkGray solid;
+	box-sizing: border-box;
+}
+
+.nameBox {
+	height: 38%;
+	width: 100%;
+	text-align: left;
+	overflow-y: auto;
+}
+
+.timeBox {
+	height: 19%;
+	width: 100%;
+	text-align: left;
+	overflow-y: auto;
+}
